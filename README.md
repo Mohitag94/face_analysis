@@ -12,18 +12,9 @@ tensorflow
 
 # Link to datasets:
 
-### LFW
-```
-http://vis-www.cs.umass.edu/lfw/
-```
-### Adience
-```
-https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
-```
-### FER-2013 
-```
-https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data 
-```
+[LFW](http://vis-www.cs.umass.edu/lfw/)
+[Adience](https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender)
+[FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 # Uages:
 ### face_detect: 

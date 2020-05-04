@@ -15,7 +15,9 @@ FER-2013 -https://www.kaggle.com/c/challenges-in-representation-learning-facial-
 
 Uages:
 face_detect: 
+'''sh
     python3 face_detect (put the path to images inplace of "path")
+'''
 recognize_faces: 
     python3 recognize_faces.py --encodings "path to encodings.pickle" --image "path to images to recognize"
 age_detect: 
